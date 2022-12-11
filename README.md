@@ -1,0 +1,2 @@
+# ZamowienieTemplatka-Replit
+Metoda Szablonowa
